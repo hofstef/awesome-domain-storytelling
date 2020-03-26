@@ -40,8 +40,10 @@ Anders Gill
 - #DomainStorytelling channel at [DDD Slack](https://github.com/ddd-cqrs-es/slack-community)
 - [Collaborative Modeling Camp](https://comocamp.github.io/web/)
 ### People on Twitter
+## Variations
+ - [Storystorming](https://medium.com/plexiti/story-storming-191756f57387) by Martin Schimak
+ - [Domain Message Flow Modelling](https://medium.com/nick-tune-tech-strategy-blog/modelling-bounded-contexts-with-the-bounded-context-design-canvas-a-workshop-recipe-1f123e592ab) by Nick Tune
 ## Related Topics
-- [Storystorming](https://medium.com/plexiti/story-storming-191756f57387), 2019, Martin Schimak
 - https://openpracticelibrary.com/ - A collection of software development practices, including Domain Storytelling.
 - https://www.visualcollaborationtools.com/ - A collection of collaborative modeling methods, including Domain Storytelling.
 ## License
