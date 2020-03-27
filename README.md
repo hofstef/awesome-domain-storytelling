@@ -1,5 +1,5 @@
 # awesome-domain-storytelling
-Ressources are in English unless prefixed with a language code, e.G.:
+Resources are in English unless prefixed with a language code, e.G.:
 - [GER] Ein Artikel auf Deutsch.
 - A blog post in English.
 ## Introductions and Material for Beginners
