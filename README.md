@@ -46,5 +46,6 @@ Anders Gill
 ## Related Topics
 - https://openpracticelibrary.com/ - A collection of software development practices, including Domain Storytelling.
 - https://www.visualcollaborationtools.com/ - A collection of collaborative modeling methods, including Domain Storytelling.
+- [DDD by Example](https://leanpub.com/ddd-by-example) - A book on Domain-Driven Design that features Domain Storytelling as a knowledge crunching method.
 ## License
 awesome-domain-storytelling by Stefan Hofer is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
