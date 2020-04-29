@@ -5,7 +5,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 ## Introductions and Material for Beginners
 ### Reading
 - http://domainstorytelling.org - the "official" website.
-- The free sample of the [book](http://leanpub.com/domainstorytelling/) covers the basics.
+- The [free sample](https://leanpub.com/domainstorytelling/read_sample) contains the most important chapters of the [Domain Storytelling book](http://leanpub.com/domainstorytelling/). Reading these ~40 pages puts you in a position to conduct a workshop yourself.
 - [Deep Listening with Domain Storytelling](https://medium.com/@mufridk/deep-listening-with-domain-storytelling-a793876b2ae9), 2020, Mufrid Krilic
 - [GER] [DOMAIN-DRIVEN DESIGN: WIE DOMAIN STORYTELLING FACHEXPERTEN UND ENTWICKLER ZUSAMMENBRINGT](https://jax.de/blog/microservices/domain-driven-design-wie-domain-storytelling-fachexperten-und-entwickler-zusammenbringt/), 2018, Henning Schwentner & Stefan Hofer
 - [GER] [Event Storming und Domain Story Telling - Ein Vergleich](https://www.innoq.com/de/blog/vergleich-event-storming-und-domain-storytelling/), 2019, Johannes Seitz
