@@ -45,7 +45,7 @@ Anders Gill
  - [Domain Message Flow Modelling](https://medium.com/nick-tune-tech-strategy-blog/modelling-bounded-contexts-with-the-bounded-context-design-canvas-a-workshop-recipe-1f123e592ab) by Nick Tune
 ## Related Topics
 - https://openpracticelibrary.com/ - A collection of software development practices, including Domain Storytelling.
-- https://www.visualcollaborationtools.com/ - A collection of collaborative modeling methods, including Domain Storytelling.
+- https://leanpub.com/visualcollaborationtools - A collection of collaborative modeling methods and other visual tools for software engineering teams, including Domain Storytelling.
 - [DDD by Example](https://leanpub.com/ddd-by-example) - A book on Domain-Driven Design that features Domain Storytelling as a knowledge crunching method.
 ## License
 awesome-domain-storytelling by Stefan Hofer is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
