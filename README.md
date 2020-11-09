@@ -15,6 +15,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [An Introduction to Domain Storytelling](https://youtu.be/d9k9Szkdprk), 2020, Zsófia Herendi & Stefan Hofer
 - [Domain Storytelling Overview](https://youtu.be/63ck9AjH9O8), 2020, Red Hat Open Innovation Labs
 - [Domain Storytelling & Star Trek](https://youtu.be/dBXGBA0DZJg), 2020, Zvonimir Spajic
+- [GER] [Software-Architektur TV](https://software-architektur.tv/folge21.html), 2020, Henning Schwentner & Stefan Hofer
 - [Domain Storytelling at CukenFest 2019](https://youtu.be/a6Ek_XWOIm0), 2019, Mufrid Krilic
 ### Other
 - [Interview on Cucumber Podcast](https://soundcloud.com/cucumber-podcast/domain-storytelling), 2019, Stefan Hofer
