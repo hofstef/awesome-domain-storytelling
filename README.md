@@ -35,6 +35,7 @@ Anders Gill
 ## Tools & (remote) Workshops
 ### Tools
 - [Domain Story Modeler](https://github.com/WPS/domain-story-modeler), WPS - Workplace Solutions GmbH
+- [Plant UML Macro](https://github.com/johthor/DomainStory-PlantUML), Johannes Thorn
 ### Reading
 - [Remote Collaborative Modeling](https://blog.arkency.com/remote-collaborative-modeling/), 2020, Mirosław Pragłowski 
 - [Using draw.io to capture Domain Stories](https://medium.com/domain-driven-stories/using-draw-io-to-capture-domain-stories-3ca828f732a0?), 2019, Darko Kantic
