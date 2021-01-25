@@ -26,6 +26,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [How Domain Storytelling reveils the secrets of your domain](https://youtu.be/lZYo2lKacYo), 2018, Henning Schwentner & Stefan Hofer
 ## Field Stories & Use Cases
 - [Facilitating Knowledge Crunching with Domain Storytelling](https://medium.com/@mufridk/facilitating-knowledge-crunching-with-domain-storytelling-7e5f1be5b60e), 2020, Mufrid Krilic
+- [Discovering Business Capabilities in Healthcare with Pure Domain Stories](https://mufridk.medium.com/discovering-business-capabilities-in-healthcare-with-pure-domain-stories-c1b5321c4699), Mufrid Krilic, 2021
 - [Scaling Kanban with Domain Storytelling](https://medium.com/@altuga/scaling-kanban-with-domain-storytelling-461eab0e4960), 2020, ALTUĞ BİLGİN ALTINTAŞ
 - [Collaborative Modeling: Domain Storytelling as a catalyst for product backlogs](https://www.wps.de/en/aktuelles/blog-en/collaborative-modeling-domain-storytelling-as-a-catalyst-for-product-backlogs/), 2020, Carsten Lill & Nils Hyoma
 - [GER] [Req4Arcs: BDD und/oder Domain Storytelling](https://jaxenter.de/kolumne-req4arcs-bdd-agile-84465), 2019, Peter Hruschka & Gernot Starke
