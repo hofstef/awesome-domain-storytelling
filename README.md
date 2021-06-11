@@ -13,6 +13,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [GER] [Was ist Domain Storytelling?](https://www.jobpushy.de/blog/28/was-ist-domain-storytelling), 2018, M.O. Scheele
 ### Video
 - [An Introduction to Domain Storytelling](https://youtu.be/d9k9Szkdprk), 2020, Zsófia Herendi & Stefan Hofer
+- [Facilitator's Guide to Enhance Learning in Your Organization ](https://youtu.be/ANfYEt16vRI), 2021, Mufrid Krilic
 - [Domain Storytelling Overview](https://youtu.be/63ck9AjH9O8), 2020, Red Hat Open Innovation Labs
 - [Domain Storytelling & Star Trek](https://youtu.be/dBXGBA0DZJg), 2020, Zvonimir Spajic
 - [GER] [Software-Architektur TV](https://software-architektur.tv/folge21.html), 2020, Henning Schwentner & Stefan Hofer
