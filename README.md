@@ -4,8 +4,9 @@ Resources are in English unless prefixed with a language code, e.G.:
 - A blog post in English.
 ## Introductions and Material for Beginners
 ### Reading
-- http://domainstorytelling.org - the "official" website.
-- The [free sample](https://leanpub.com/domainstorytelling/read_sample) contains the most important chapters of the [Domain Storytelling book](http://leanpub.com/domainstorytelling/). Reading these ~40 pages puts you in a position to conduct a workshop yourself.
+- https://domainstorytelling.org - the "official" website.
+- [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software](https://click.linksynergy.com/deeplink?id=Lbec0D6YaKE&mid=24808&murl=https%3A%2F%2Fwww.informit.com%2Fstore%2Fdomain-storytelling-a-collaborative-visual-and-agile-9780137458912): The first book on Domain Storytelling. 2021, Stefan Hofer and Henning Schwentner
+- The [free guide](https://leanpub.com/domainstorytelling/read_sample) puts you in a position to try out Domain Storytelling yourself.
 - [Deep Listening with Domain Storytelling](https://medium.com/@mufridk/deep-listening-with-domain-storytelling-a793876b2ae9), 2020, Mufrid Krilic
 - [Who doesn’t love a good story?](https://medium.com/@zspajich/who-doesnt-love-a-good-story-1fb7a64966b7). 2020, Zvonimir Spajic
 - [GER] [DOMAIN-DRIVEN DESIGN: WIE DOMAIN STORYTELLING FACHEXPERTEN UND ENTWICKLER ZUSAMMENBRINGT](https://jax.de/blog/microservices/domain-driven-design-wie-domain-storytelling-fachexperten-und-entwickler-zusammenbringt/), 2018, Henning Schwentner & Stefan Hofer
