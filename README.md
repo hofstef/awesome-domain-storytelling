@@ -2,6 +2,7 @@
 Resources are in English unless prefixed with a language code, e.G.:
 - [GER] Ein Artikel auf Deutsch.
 - A blog post in English.
+
 ## Introductions and Material for Beginners
 ### Reading
 - https://domainstorytelling.org - the "official" website.
@@ -19,13 +20,18 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [Domain Storytelling & Star Trek](https://youtu.be/dBXGBA0DZJg), 2020, Zvonimir Spajic
 - [GER] [Software-Architektur TV](https://software-architektur.tv/folge21.html), 2020, Henning Schwentner & Stefan Hofer
 - [Domain Storytelling at CukenFest 2019](https://youtu.be/a6Ek_XWOIm0), 2019, Mufrid Krilic
-### Other
-- [Interview on Cucumber Podcast](https://soundcloud.com/cucumber-podcast/domain-storytelling), 2019, Stefan Hofer
+### Podcasts
+- [InfoQ Podcast](https://www.infoq.com/podcasts/domain-storytelling), 2021, Henning Schwentner & Stefan Hofer
+- [Cucumber Podcast](https://soundcloud.com/cucumber-podcast/domain-storytelling), 2019, Stefan Hofer
+
+
 ## Advanced Material
-### Reading
-- http://leanpub.com/domainstorytelling/ The first book about Domain Storytelling (work in progress).
+
 ### Video
 - [How Domain Storytelling reveils the secrets of your domain](https://youtu.be/lZYo2lKacYo), 2018, Henning Schwentner & Stefan Hofer
+### Podcasts
+- [GER] [Rechenzeit, Folge 4](https://www.wps.de/podcast-rechenzeit/), 2021, Henning Schwentner & Stefan Hofer
+
 ## Field Stories & Use Cases
 - [Facilitating Knowledge Crunching with Domain Storytelling](https://medium.com/@mufridk/facilitating-knowledge-crunching-with-domain-storytelling-7e5f1be5b60e), 2020, Mufrid Krilic
 - [Discovering Business Capabilities in Healthcare with Pure Domain Stories](https://mufridk.medium.com/discovering-business-capabilities-in-healthcare-with-pure-domain-stories-c1b5321c4699), Mufrid Krilic, 2021
@@ -35,6 +41,8 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [Part 1: Domain Driven Design like a pro](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10), 2019, 
 Anders Gill
 - [GER] [Heise SoftwareArchitekTOUR-Podcast, Episode 64: Domain-Driven Design (DDD), Episode 3](https://www.heise.de/developer/artikel/Episode-64-Domain-Driven-Design-DDD-Episode-3-4491758.html), 2019, Carola Lilienthal, Eberhard Wolff, Gernot Starke
+
+
 ## Tools & (remote) Workshops
 ### Tools
 - [Domain Story Modeler](https://github.com/WPS/domain-story-modeler), WPS - Workplace Solutions GmbH
@@ -44,16 +52,19 @@ Anders Gill
 - [Using draw.io to capture Domain Stories](https://medium.com/domain-driven-stories/using-draw-io-to-capture-domain-stories-3ca828f732a0?), 2019, Darko Kantic
 ### Video
 - [Live remote modeling at the Virtual DDD Meetup](https://youtu.be/d9k9Szkdprk), 2020, Zsófia Herendi & Stefan Hofer
+
 ## Communities
 - #DomainStorytelling channel at [DDD Slack](https://github.com/ddd-cqrs-es/slack-community)
 - [Collaborative Modeling Camp](https://comocamp.github.io/web/)
-### People on Twitter
+
 ## Variations
  - [Storystorming](https://medium.com/plexiti/story-storming-191756f57387) by Martin Schimak
  - [Domain Message Flow Modelling](https://medium.com/nick-tune-tech-strategy-blog/modelling-bounded-contexts-with-the-bounded-context-design-canvas-a-workshop-recipe-1f123e592ab) by Nick Tune
+
 ## Related Topics
 - https://openpracticelibrary.com/ - A collection of software development practices, including Domain Storytelling.
 - https://leanpub.com/visualcollaborationtools - A collection of collaborative modeling methods and other visual tools for software engineering teams, including Domain Storytelling.
 - [DDD by Example](https://leanpub.com/ddd-by-example) - A book on Domain-Driven Design that features Domain Storytelling as a knowledge crunching method.
+
 ## License
 awesome-domain-storytelling by Stefan Hofer is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
