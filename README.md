@@ -8,6 +8,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 - https://domainstorytelling.org - the "official" website.
 - [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software](https://click.linksynergy.com/deeplink?id=Lbec0D6YaKE&mid=24808&murl=https%3A%2F%2Fwww.informit.com%2Fstore%2Fdomain-storytelling-a-collaborative-visual-and-agile-9780137458912): The first book on Domain Storytelling. 2021, Stefan Hofer and Henning Schwentner
 - The [free guide](https://leanpub.com/domainstorytelling/read_sample) puts you in a position to try out Domain Storytelling yourself.
+- [Why EventStorming practitioners should try Domain Storytelling](https://kalele.io/why-eventstorming-practitioners-should-try-domain-storytelling/): 2021, Stefan Hofer and Henning Schwentner
 - [Deep Listening with Domain Storytelling](https://medium.com/@mufridk/deep-listening-with-domain-storytelling-a793876b2ae9), 2020, Mufrid Krilic
 - [Who doesn’t love a good story?](https://medium.com/@zspajich/who-doesnt-love-a-good-story-1fb7a64966b7). 2020, Zvonimir Spajic
 - [GER] [DOMAIN-DRIVEN DESIGN: WIE DOMAIN STORYTELLING FACHEXPERTEN UND ENTWICKLER ZUSAMMENBRINGT](https://jax.de/blog/microservices/domain-driven-design-wie-domain-storytelling-fachexperten-und-entwickler-zusammenbringt/), 2018, Henning Schwentner & Stefan Hofer
@@ -21,8 +22,9 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [GER] [Software-Architektur TV](https://software-architektur.tv/folge21.html), 2020, Henning Schwentner & Stefan Hofer
 - [Domain Storytelling at CukenFest 2019](https://youtu.be/a6Ek_XWOIm0), 2019, Mufrid Krilic
 ### Podcasts
-- [InfoQ Podcast](https://www.infoq.com/podcasts/domain-storytelling), 2021, Henning Schwentner & Stefan Hofer
-- [Cucumber Podcast](https://soundcloud.com/cucumber-podcast/domain-storytelling), 2019, Stefan Hofer
+- [Vaughn Vernon's "add dot" Podcast](https://adddot.io/podcast/5-stefan-hofer-henning-schwentner/), 44min, 2021, Henning Schwentner and Stefan Hofer
+- [InfoQ Podcast](https://www.infoq.com/podcasts/domain-storytelling), 24min, 2021, Henning Schwentner and Stefan Hofer
+- [Cucumber Podcast](https://soundcloud.com/cucumber-podcast/domain-storytelling), 43min, 2019, Stefan Hofer
 
 
 ## Advanced Material
