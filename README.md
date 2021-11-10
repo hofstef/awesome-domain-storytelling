@@ -30,6 +30,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 ## Advanced Material
 
 ### Video
+- [Developing Domain Storytelling, or: How DDD influenced modeling practices](https://www.youtube.com/watch?v=xUiEV45UU-4), 2021, Stefan Hofer
 - [How Domain Storytelling reveils the secrets of your domain](https://youtu.be/lZYo2lKacYo), 2018, Henning Schwentner & Stefan Hofer
 ### Podcasts
 - [GER] [Rechenzeit, Folge 4](https://www.wps.de/podcast-rechenzeit/), 2021, Henning Schwentner & Stefan Hofer
