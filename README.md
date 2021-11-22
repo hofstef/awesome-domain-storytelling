@@ -15,6 +15,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [GER] [Event Storming und Domain Story Telling - Ein Vergleich](https://www.innoq.com/de/blog/vergleich-event-storming-und-domain-storytelling/), 2019, Johannes Seitz
 - [GER] [Was ist Domain Storytelling?](https://www.jobpushy.de/blog/28/was-ist-domain-storytelling), 2018, M.O. Scheele
 ### Video
+- [GER] [Talk at DDD Meetup Cologne](https://www.youtube.com/watch?v=FxPalV9a8fE), 2021, Stefan Hofer
 - [An Introduction to Domain Storytelling](https://youtu.be/d9k9Szkdprk), 2020, Zsófia Herendi & Stefan Hofer
 - [Facilitator's Guide to Enhance Learning in Your Organization ](https://youtu.be/ANfYEt16vRI), 2021, Mufrid Krilic
 - [Domain Storytelling Overview](https://youtu.be/63ck9AjH9O8), 2020, Red Hat Open Innovation Labs
