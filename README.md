@@ -11,7 +11,6 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [Why EventStorming practitioners should try Domain Storytelling](https://kalele.io/why-eventstorming-practitioners-should-try-domain-storytelling/): 2021, Stefan Hofer and Henning Schwentner
 - [Deep Listening with Domain Storytelling](https://medium.com/@mufridk/deep-listening-with-domain-storytelling-a793876b2ae9), 2020, Mufrid Krilic
 - [Who doesn’t love a good story?](https://medium.com/@zspajich/who-doesnt-love-a-good-story-1fb7a64966b7). 2020, Zvonimir Spajic
-- [KOR] [First attempt at real domain storytelling](https://brunch.co.kr/@graypool/277), 2021, Ahn Younghoe
 - [GER] [DOMAIN-DRIVEN DESIGN: WIE DOMAIN STORYTELLING FACHEXPERTEN UND ENTWICKLER ZUSAMMENBRINGT](https://jax.de/blog/microservices/domain-driven-design-wie-domain-storytelling-fachexperten-und-entwickler-zusammenbringt/), 2018, Henning Schwentner & Stefan Hofer
 - [GER] [Event Storming und Domain Story Telling - Ein Vergleich](https://www.innoq.com/de/blog/vergleich-event-storming-und-domain-storytelling/), 2019, Johannes Seitz
 - [GER] [Was ist Domain Storytelling?](https://www.jobpushy.de/blog/28/was-ist-domain-storytelling), 2018, M.O. Scheele
@@ -38,6 +37,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [GER] [Rechenzeit, Folge 4](https://www.wps.de/podcast-rechenzeit/), 2021, Henning Schwentner & Stefan Hofer
 
 ## Field Stories & Use Cases
+- [KOR] [First attempt at real domain storytelling](https://brunch.co.kr/@graypool/277), 2021, Ahn Younghoe
 - [Facilitating Knowledge Crunching with Domain Storytelling](https://medium.com/@mufridk/facilitating-knowledge-crunching-with-domain-storytelling-7e5f1be5b60e), 2020, Mufrid Krilic
 - [Discovering Business Capabilities in Healthcare with Pure Domain Stories](https://mufridk.medium.com/discovering-business-capabilities-in-healthcare-with-pure-domain-stories-c1b5321c4699), Mufrid Krilic, 2021
 - [Scaling Kanban with Domain Storytelling](https://medium.com/@altuga/scaling-kanban-with-domain-storytelling-461eab0e4960), 2020, ALTUĞ BİLGİN ALTINTAŞ
