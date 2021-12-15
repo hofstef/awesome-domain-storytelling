@@ -11,6 +11,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [Why EventStorming practitioners should try Domain Storytelling](https://kalele.io/why-eventstorming-practitioners-should-try-domain-storytelling/): 2021, Stefan Hofer and Henning Schwentner
 - [Deep Listening with Domain Storytelling](https://medium.com/@mufridk/deep-listening-with-domain-storytelling-a793876b2ae9), 2020, Mufrid Krilic
 - [Who doesn’t love a good story?](https://medium.com/@zspajich/who-doesnt-love-a-good-story-1fb7a64966b7). 2020, Zvonimir Spajic
+- [KOR] [First attempt at real domain storytelling](https://brunch.co.kr/@graypool/277), 2021, Ahn Younghoe
 - [GER] [DOMAIN-DRIVEN DESIGN: WIE DOMAIN STORYTELLING FACHEXPERTEN UND ENTWICKLER ZUSAMMENBRINGT](https://jax.de/blog/microservices/domain-driven-design-wie-domain-storytelling-fachexperten-und-entwickler-zusammenbringt/), 2018, Henning Schwentner & Stefan Hofer
 - [GER] [Event Storming und Domain Story Telling - Ein Vergleich](https://www.innoq.com/de/blog/vergleich-event-storming-und-domain-storytelling/), 2019, Johannes Seitz
 - [GER] [Was ist Domain Storytelling?](https://www.jobpushy.de/blog/28/was-ist-domain-storytelling), 2018, M.O. Scheele
