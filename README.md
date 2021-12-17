@@ -40,7 +40,6 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [GER] [Rechenzeit, Folge 4](https://www.wps.de/podcast-rechenzeit/), 2021, Henning Schwentner & Stefan Hofer
 
 ## Field Stories & Use Cases
-- [KOR] [First attempt at real domain storytelling](https://brunch.co.kr/@graypool/277), 2021, Ahn Younghoe
 - [Facilitating Knowledge Crunching with Domain Storytelling](https://medium.com/@mufridk/facilitating-knowledge-crunching-with-domain-storytelling-7e5f1be5b60e), 2020, Mufrid Krilic
 - [Discovering Business Capabilities in Healthcare with Pure Domain Stories](https://mufridk.medium.com/discovering-business-capabilities-in-healthcare-with-pure-domain-stories-c1b5321c4699), Mufrid Krilic, 2021
 - [Scaling Kanban with Domain Storytelling](https://medium.com/@altuga/scaling-kanban-with-domain-storytelling-461eab0e4960), 2020, ALTUĞ BİLGİN ALTINTAŞ
