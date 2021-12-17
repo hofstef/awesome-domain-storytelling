@@ -2,6 +2,7 @@
 Resources are in English unless prefixed with a language code, e.G.:
 - [GER] Ein Artikel auf Deutsch.
 - A blog post in English.
+- [KOR] 한국어 
 
 ## Introductions and Material for Beginners
 ### Reading
