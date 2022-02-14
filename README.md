@@ -28,7 +28,8 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [GER] [Software-Architektur TV](https://software-architektur.tv/folge21.html), 2020, Henning Schwentner & Stefan Hofer
 - [Domain Storytelling at CukenFest 2019](https://youtu.be/a6Ek_XWOIm0), 2019, Mufrid Krilic
 ### Podcasts
-- [Vaughn Vernon's "add dot" Podcast](https://adddot.io/podcast/5-stefan-hofer-henning-schwentner/), 44min, 2021, Henning Schwentner and Stefan Hofer
+- [TechLead Journal](https://techleadjournal.dev/episodes/75/), 48min, 2022, Stefan Hofer
+- [Vaughn Vernon's "add dot" Podcast](https://adddot.io/podcast/episode-5), 44min, 2021, Henning Schwentner and Stefan Hofer
 - [InfoQ Podcast](https://www.infoq.com/podcasts/domain-storytelling), 24min, 2021, Henning Schwentner and Stefan Hofer
 - [Cucumber Podcast](https://soundcloud.com/cucumber-podcast/domain-storytelling), 43min, 2019, Stefan Hofer
 
