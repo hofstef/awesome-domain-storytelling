@@ -36,9 +36,13 @@ Resources are in English unless prefixed with a language code, e.G.:
 
 ## Advanced Material
 
+### Reading
+- [Visualizing Communication Between Bounded Contexts](https://medium.com/@wps_de/visualizing-communication-between-bounded-contexts-6796af6ff1b9), 2022, Stefan Hofer
+
 ### Video
 - [Developing Domain Storytelling, or: How DDD influenced modeling practices](https://www.youtube.com/watch?v=xUiEV45UU-4), 2021, Stefan Hofer
 - [How Domain Storytelling reveils the secrets of your domain](https://youtu.be/lZYo2lKacYo), 2018, Henning Schwentner & Stefan Hofer
+
 ### Podcasts
 - [GER] [Rechenzeit, Folge 4](https://www.wps.de/podcast-rechenzeit/), 2021, Henning Schwentner & Stefan Hofer
 
