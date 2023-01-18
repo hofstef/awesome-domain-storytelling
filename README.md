@@ -68,7 +68,7 @@ Anders Gill
 - [Live remote modeling at the Virtual DDD Meetup](https://youtu.be/d9k9Szkdprk), 2020, Zsófia Herendi & Stefan Hofer
 
 ## Communities
-- #DomainStorytelling channel at [DDD Slack](https://github.com/ddd-cqrs-es/slack-community)
+- #DomainStorytelling channel at [DDD Discord](https://discord.gg/KsYaHNNn33)
 - [Collaborative Modeling Camp](https://comocamp.github.io/web/)
 
 ## Variations
