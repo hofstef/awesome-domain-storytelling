@@ -1,7 +1,7 @@
 # awesome-domain-storytelling
 Resources are in English unless prefixed with a language code, e.G.:
-- [GER] Ein Artikel auf Deutsch.
 - A blog post in English.
+- [GER] Ein Artikel auf Deutsch.
 - [KOR] 한국어 
 - [NOR] Norsk
 
@@ -9,6 +9,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 ### Reading
 - https://domainstorytelling.org - the "official" website.
 - [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software](https://click.linksynergy.com/deeplink?id=Lbec0D6YaKE&mid=24808&murl=https%3A%2F%2Fwww.informit.com%2Fstore%2Fdomain-storytelling-a-collaborative-visual-and-agile-9780137458912): The first book on Domain Storytelling. 2021, Stefan Hofer and Henning Schwentner
+- [GER] [Domain Storytelling: Gemeinschaftlich, visuell und agil zu fachlich wertvoller Software](https://domainstorytelling.org/book): Deutsche Übersetzung des englischen Buchs. 2023, Stefan Hofer and Henning Schwentner
 - The [free guide](https://leanpub.com/domainstorytelling/read_sample) puts you in a position to try out Domain Storytelling yourself.
 - [Why EventStorming practitioners should try Domain Storytelling](https://kalele.io/why-eventstorming-practitioners-should-try-domain-storytelling/): 2021, Stefan Hofer and Henning Schwentner
 - [Deep Listening with Domain Storytelling](https://medium.com/@mufridk/deep-listening-with-domain-storytelling-a793876b2ae9), 2020, Mufrid Krilic
@@ -53,14 +54,13 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [Scaling Kanban with Domain Storytelling](https://medium.com/@altuga/scaling-kanban-with-domain-storytelling-461eab0e4960), 2020, ALTUĞ BİLGİN ALTINTAŞ
 - [Collaborative Modeling: Domain Storytelling as a catalyst for product backlogs](https://www.wps.de/en/aktuelles/blog-en/collaborative-modeling-domain-storytelling-as-a-catalyst-for-product-backlogs/), 2020, Carsten Lill & Nils Hyoma
 - [GER] [Req4Arcs: BDD und/oder Domain Storytelling](https://jaxenter.de/kolumne-req4arcs-bdd-agile-84465), 2019, Peter Hruschka & Gernot Starke
-- [Part 1: Domain Driven Design like a pro](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10), 2019, 
-Anders Gill
+- [Part 1: Domain Driven Design like a pro](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10), 2019, Anders Gill
 - [GER] [Heise SoftwareArchitekTOUR-Podcast, Episode 64: Domain-Driven Design (DDD), Episode 3](https://www.heise.de/developer/artikel/Episode-64-Domain-Driven-Design-DDD-Episode-3-4491758.html), 2019, Carola Lilienthal, Eberhard Wolff, Gernot Starke
 
 
 ## Tools & (remote) Workshops
 ### Tools
-- [Domain Story Modeler](https://github.com/WPS/domain-story-modeler), WPS - Workplace Solutions GmbH
+- [Egon.io - The Domain Story Modeler](https://github.com/WPS/egon.io), WPS - Workplace Solutions GmbH
 - [Plant UML Macro](https://github.com/johthor/DomainStory-PlantUML), Johannes Thorn
 ### Reading
 - [Remote Collaborative Modeling](https://blog.arkency.com/remote-collaborative-modeling/), 2020, Mirosław Pragłowski 
@@ -80,6 +80,8 @@ Anders Gill
 - https://openpracticelibrary.com/ - A collection of software development practices, including Domain Storytelling.
 - https://leanpub.com/visualcollaborationtools - A collection of collaborative modeling methods and other visual tools for software engineering teams, including Domain Storytelling.
 - [DDD by Example](https://leanpub.com/ddd-by-example) - A book on Domain-Driven Design that features Domain Storytelling as a knowledge crunching method.
+- [Communication Patterns](https://communicationpatternsbook.com/) - A book for developers and architects on how to communicate effectively. Features Domain Storytelling as an example for visual communication. 2023, Jacqui Read.
+- [GER] [Domain-driven Transformation](https://dpunkt.de/produkt/domain-driven-transformation/) - Monolithen und Microservices zukunftsfähig machen. Die Methodik nutzt u.a. Domain Storytelling. 2024, Carola Lilienthal, Henning Schwentner.
 
 ## License
 awesome-domain-storytelling by Stefan Hofer is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
