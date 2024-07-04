@@ -10,7 +10,6 @@ Resources are in English unless prefixed with a language code, e.G.:
 - https://domainstorytelling.org - the "official" website.
 - [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software](https://click.linksynergy.com/deeplink?id=Lbec0D6YaKE&mid=24808&murl=https%3A%2F%2Fwww.informit.com%2Fstore%2Fdomain-storytelling-a-collaborative-visual-and-agile-9780137458912): The first book on Domain Storytelling. 2021, Stefan Hofer and Henning Schwentner
 - [GER] [Domain Storytelling: Gemeinschaftlich, visuell und agil zu fachlich wertvoller Software](https://domainstorytelling.org/book): Deutsche Übersetzung des englischen Buchs. 2023, Stefan Hofer and Henning Schwentner
-- The [free guide](https://leanpub.com/domainstorytelling/read_sample) puts you in a position to try out Domain Storytelling yourself.
 - [Why EventStorming practitioners should try Domain Storytelling](https://kalele.io/why-eventstorming-practitioners-should-try-domain-storytelling/): 2021, Stefan Hofer and Henning Schwentner
 - [Deep Listening with Domain Storytelling](https://medium.com/@mufridk/deep-listening-with-domain-storytelling-a793876b2ae9), 2020, Mufrid Krilic
 - [Who doesn’t love a good story?](https://medium.com/@zspajich/who-doesnt-love-a-good-story-1fb7a64966b7). 2020, Zvonimir Spajic
