@@ -1,3 +1,5 @@
+> This collection of resources moved to the [Domain Storytelling Website](https://domainstorytelling.org/resources).
+
 # awesome-domain-storytelling
 Resources are in English unless prefixed with a language code, e.G.:
 - A blog post in English.
